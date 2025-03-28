@@ -1,0 +1,1001 @@
+Age,Weight,Height,Area,Preference,DietPlan
+24,78,180,Jharkhand,Stay Healthy,General Balanced Diet with Local Foods
+45,77,164,Manipur,Stay Healthy,General Balanced Diet with Local Foods
+25,96,185,Rajasthan,Lose Weight,General Balanced Diet with Local Foods
+35,99,157,Bihar,Lose Weight,General Balanced Diet with Local Foods
+20,70,167,Haryana,Lose Weight,General Balanced Diet with Local Foods
+37,52,151,Kerala,Lose Weight,"Consume Brown Rice, Avial, Cucumber Salad, and Coconut Water"
+23,56,154,Tamil Nadu,Lose Weight,"Include Millets Dosa, Sambhar, Coconut Chutney, and Fresh Fruits"
+37,84,158,Telangana,Stay Healthy,General Balanced Diet with Local Foods
+38,67,169,Manipur,Stay Healthy,General Balanced Diet with Local Foods
+21,90,173,Bihar,Stay Healthy,General Balanced Diet with Local Foods
+37,67,186,West Bengal,Lose Weight,"Have Moong Dal Khichdi, Grilled Fish, and Seasonal Fruits"
+37,76,160,Punjab,Lose Weight,"Eat Missi Roti, Dal Tadka, Cucumber Raita, and Lemon Water"
+24,52,184,Manipur,Lose Weight,General Balanced Diet with Local Foods
+55,60,161,Sikkim,Lose Weight,General Balanced Diet with Local Foods
+54,81,164,Sikkim,Lose Weight,General Balanced Diet with Local Foods
+24,97,166,Assam,Stay Healthy,General Balanced Diet with Local Foods
+23,78,179,Chhattisgarh,Gain Weight,General Balanced Diet with Local Foods
+30,80,180,West Bengal,Lose Weight,"Have Moong Dal Khichdi, Grilled Fish, and Seasonal Fruits"
+46,63,191,Arunachal Pradesh,Gain Weight,General Balanced Diet with Local Foods
+43,79,187,Himachal Pradesh,Gain Weight,General Balanced Diet with Local Foods
+28,78,193,Mizoram,Stay Healthy,General Balanced Diet with Local Foods
+42,71,167,West Bengal,Lose Weight,"Have Moong Dal Khichdi, Grilled Fish, and Seasonal Fruits"
+30,79,159,Kerala,Gain Weight,"Have Puttu with Coconut Milk, Banana Fry, and Fish Curry"
+27,92,187,Himachal Pradesh,Stay Healthy,General Balanced Diet with Local Foods
+49,95,157,Odisha,Gain Weight,General Balanced Diet with Local Foods
+38,75,164,Manipur,Stay Healthy,General Balanced Diet with Local Foods
+33,79,193,Uttar Pradesh,Stay Healthy,General Balanced Diet with Local Foods
+27,90,192,Odisha,Stay Healthy,General Balanced Diet with Local Foods
+29,89,178,Goa,Lose Weight,General Balanced Diet with Local Foods
+52,61,165,Maharashtra,Lose Weight,"Opt for Jowar Bhakri, Poha, Sprouts Salad, and Lemon Water"
+51,88,182,Gujarat,Stay Healthy,General Balanced Diet with Local Foods
+39,57,154,Madhya Pradesh,Stay Healthy,General Balanced Diet with Local Foods
+58,55,194,Uttarakhand,Stay Healthy,General Balanced Diet with Local Foods
+46,92,185,Nagaland,Lose Weight,General Balanced Diet with Local Foods
+27,99,171,Assam,Gain Weight,General Balanced Diet with Local Foods
+31,74,186,Andhra Pradesh,Gain Weight,General Balanced Diet with Local Foods
+21,62,178,Haryana,Lose Weight,General Balanced Diet with Local Foods
+30,69,186,Telangana,Stay Healthy,General Balanced Diet with Local Foods
+33,84,172,Chhattisgarh,Lose Weight,General Balanced Diet with Local Foods
+57,62,165,Goa,Gain Weight,General Balanced Diet with Local Foods
+24,61,171,Himachal Pradesh,Stay Healthy,General Balanced Diet with Local Foods
+48,51,157,Jharkhand,Gain Weight,General Balanced Diet with Local Foods
+21,63,170,Manipur,Gain Weight,General Balanced Diet with Local Foods
+44,99,190,Uttar Pradesh,Gain Weight,General Balanced Diet with Local Foods
+57,75,195,Manipur,Gain Weight,General Balanced Diet with Local Foods
+47,80,171,Telangana,Gain Weight,General Balanced Diet with Local Foods
+23,61,175,Andhra Pradesh,Stay Healthy,General Balanced Diet with Local Foods
+46,69,190,Himachal Pradesh,Gain Weight,General Balanced Diet with Local Foods
+28,75,157,Punjab,Gain Weight,"Eat Makki di Roti, Sarson da Saag, Paneer Tikka, and Lassi"
+43,92,183,Meghalaya,Lose Weight,General Balanced Diet with Local Foods
+53,58,167,Andhra Pradesh,Gain Weight,General Balanced Diet with Local Foods
+43,86,191,Gujarat,Stay Healthy,General Balanced Diet with Local Foods
+24,60,185,Maharashtra,Stay Healthy,"Have Dal Khichdi, Mixed Vegetable Curry, and Buttermilk"
+51,50,153,West Bengal,Lose Weight,"Have Moong Dal Khichdi, Grilled Fish, and Seasonal Fruits"
+49,64,157,Rajasthan,Lose Weight,General Balanced Diet with Local Foods
+33,88,168,Gujarat,Lose Weight,General Balanced Diet with Local Foods
+60,94,162,Tripura,Stay Healthy,General Balanced Diet with Local Foods
+23,50,174,Uttarakhand,Lose Weight,General Balanced Diet with Local Foods
+37,58,173,Andhra Pradesh,Lose Weight,General Balanced Diet with Local Foods
+58,53,157,Haryana,Lose Weight,General Balanced Diet with Local Foods
+19,67,158,Himachal Pradesh,Gain Weight,General Balanced Diet with Local Foods
+47,53,186,Uttarakhand,Lose Weight,General Balanced Diet with Local Foods
+18,68,171,Punjab,Gain Weight,"Eat Makki di Roti, Sarson da Saag, Paneer Tikka, and Lassi"
+39,70,161,Rajasthan,Lose Weight,General Balanced Diet with Local Foods
+28,83,176,West Bengal,Gain Weight,"Consume Rice, Macher Jhol, Sweets like Rosogolla, and Milk"
+53,66,187,Arunachal Pradesh,Gain Weight,General Balanced Diet with Local Foods
+29,58,175,Punjab,Gain Weight,"Eat Makki di Roti, Sarson da Saag, Paneer Tikka, and Lassi"
+18,61,151,Nagaland,Stay Healthy,General Balanced Diet with Local Foods
+57,60,168,Meghalaya,Stay Healthy,General Balanced Diet with Local Foods
+56,56,153,Haryana,Stay Healthy,General Balanced Diet with Local Foods
+55,86,154,Bihar,Lose Weight,General Balanced Diet with Local Foods
+37,73,189,Sikkim,Lose Weight,General Balanced Diet with Local Foods
+54,87,188,Manipur,Lose Weight,General Balanced Diet with Local Foods
+52,53,170,Uttar Pradesh,Lose Weight,General Balanced Diet with Local Foods
+35,57,151,Haryana,Stay Healthy,General Balanced Diet with Local Foods
+59,90,171,Andhra Pradesh,Lose Weight,General Balanced Diet with Local Foods
+36,51,157,Himachal Pradesh,Gain Weight,General Balanced Diet with Local Foods
+50,66,157,Mizoram,Gain Weight,General Balanced Diet with Local Foods
+26,96,173,Sikkim,Lose Weight,General Balanced Diet with Local Foods
+55,88,154,Madhya Pradesh,Lose Weight,General Balanced Diet with Local Foods
+31,58,165,Bihar,Stay Healthy,General Balanced Diet with Local Foods
+49,70,194,Goa,Gain Weight,General Balanced Diet with Local Foods
+29,58,190,Madhya Pradesh,Lose Weight,General Balanced Diet with Local Foods
+60,88,177,Tripura,Gain Weight,General Balanced Diet with Local Foods
+48,77,179,Tripura,Gain Weight,General Balanced Diet with Local Foods
+46,82,173,Tripura,Lose Weight,General Balanced Diet with Local Foods
+42,83,151,Kerala,Gain Weight,"Have Puttu with Coconut Milk, Banana Fry, and Fish Curry"
+33,86,178,Telangana,Gain Weight,General Balanced Diet with Local Foods
+26,72,182,Jharkhand,Lose Weight,General Balanced Diet with Local Foods
+28,67,178,Kerala,Gain Weight,"Have Puttu with Coconut Milk, Banana Fry, and Fish Curry"
+30,82,173,Bihar,Lose Weight,General Balanced Diet with Local Foods
+58,58,158,Chhattisgarh,Gain Weight,General Balanced Diet with Local Foods
+33,51,164,Punjab,Gain Weight,"Eat Makki di Roti, Sarson da Saag, Paneer Tikka, and Lassi"
+33,64,177,Mizoram,Gain Weight,General Balanced Diet with Local Foods
+42,58,189,Mizoram,Gain Weight,General Balanced Diet with Local Foods
+56,66,151,Andhra Pradesh,Lose Weight,General Balanced Diet with Local Foods
+30,59,154,Telangana,Gain Weight,General Balanced Diet with Local Foods
+54,54,171,Uttarakhand,Gain Weight,General Balanced Diet with Local Foods
+28,58,174,Arunachal Pradesh,Lose Weight,General Balanced Diet with Local Foods
+29,53,177,Tamil Nadu,Gain Weight,"Include Pongal, Dosa with Butter, Filter Coffee, and Curd Rice"
+27,80,161,Odisha,Gain Weight,General Balanced Diet with Local Foods
+30,72,162,Bihar,Stay Healthy,General Balanced Diet with Local Foods
+54,95,155,Kerala,Stay Healthy,"Include Idiyappam, Vegetable Stew, and Fresh Coconut Water"
+38,62,160,Nagaland,Gain Weight,General Balanced Diet with Local Foods
+55,78,166,Odisha,Stay Healthy,General Balanced Diet with Local Foods
+26,68,157,Chhattisgarh,Gain Weight,General Balanced Diet with Local Foods
+46,90,190,Andhra Pradesh,Stay Healthy,General Balanced Diet with Local Foods
+36,64,164,Andhra Pradesh,Gain Weight,General Balanced Diet with Local Foods
+29,92,185,Maharashtra,Lose Weight,"Opt for Jowar Bhakri, Poha, Sprouts Salad, and Lemon Water"
+47,84,186,Haryana,Stay Healthy,General Balanced Diet with Local Foods
+33,100,171,West Bengal,Lose Weight,"Have Moong Dal Khichdi, Grilled Fish, and Seasonal Fruits"
+37,56,151,Himachal Pradesh,Gain Weight,General Balanced Diet with Local Foods
+40,90,185,Tripura,Lose Weight,General Balanced Diet with Local Foods
+60,57,172,Karnataka,Stay Healthy,"Consume Idli, Sambar, Fresh Fruits, and Curd"
+53,75,180,Punjab,Lose Weight,"Eat Missi Roti, Dal Tadka, Cucumber Raita, and Lemon Water"
+29,56,160,Goa,Gain Weight,General Balanced Diet with Local Foods
+35,50,183,Sikkim,Stay Healthy,General Balanced Diet with Local Foods
+54,55,189,Assam,Lose Weight,General Balanced Diet with Local Foods
+45,70,158,Rajasthan,Gain Weight,General Balanced Diet with Local Foods
+50,60,163,Goa,Stay Healthy,General Balanced Diet with Local Foods
+19,94,192,Punjab,Lose Weight,"Eat Missi Roti, Dal Tadka, Cucumber Raita, and Lemon Water"
+60,90,156,Tripura,Gain Weight,General Balanced Diet with Local Foods
+43,73,185,Jharkhand,Gain Weight,General Balanced Diet with Local Foods
+30,95,169,Nagaland,Lose Weight,General Balanced Diet with Local Foods
+53,80,160,Tripura,Lose Weight,General Balanced Diet with Local Foods
+25,67,192,Madhya Pradesh,Lose Weight,General Balanced Diet with Local Foods
+38,85,179,Telangana,Stay Healthy,General Balanced Diet with Local Foods
+31,75,193,West Bengal,Lose Weight,"Have Moong Dal Khichdi, Grilled Fish, and Seasonal Fruits"
+54,93,174,Karnataka,Stay Healthy,"Consume Idli, Sambar, Fresh Fruits, and Curd"
+45,59,178,Punjab,Stay Healthy,"Consume Wheat Roti, Dal Makhani (Light), and Lassi"
+21,63,178,Andhra Pradesh,Lose Weight,General Balanced Diet with Local Foods
+27,100,156,Mizoram,Gain Weight,General Balanced Diet with Local Foods
+52,55,155,Tamil Nadu,Gain Weight,"Include Pongal, Dosa with Butter, Filter Coffee, and Curd Rice"
+51,50,180,Assam,Gain Weight,General Balanced Diet with Local Foods
+18,84,186,Nagaland,Stay Healthy,General Balanced Diet with Local Foods
+55,56,178,Uttar Pradesh,Lose Weight,General Balanced Diet with Local Foods
+20,60,156,Goa,Lose Weight,General Balanced Diet with Local Foods
+19,84,187,Punjab,Gain Weight,"Eat Makki di Roti, Sarson da Saag, Paneer Tikka, and Lassi"
+27,88,176,Jharkhand,Gain Weight,General Balanced Diet with Local Foods
+58,50,195,Mizoram,Stay Healthy,General Balanced Diet with Local Foods
+58,72,193,Madhya Pradesh,Stay Healthy,General Balanced Diet with Local Foods
+29,65,181,West Bengal,Lose Weight,"Have Moong Dal Khichdi, Grilled Fish, and Seasonal Fruits"
+25,65,156,Jharkhand,Stay Healthy,General Balanced Diet with Local Foods
+48,53,168,Chhattisgarh,Lose Weight,General Balanced Diet with Local Foods
+23,60,185,Haryana,Lose Weight,General Balanced Diet with Local Foods
+43,51,168,Meghalaya,Gain Weight,General Balanced Diet with Local Foods
+34,68,171,West Bengal,Stay Healthy,"Eat Fish Curry, Rice, Moong Dal, and Seasonal Fruits"
+28,59,170,Jharkhand,Gain Weight,General Balanced Diet with Local Foods
+43,68,182,Tamil Nadu,Lose Weight,"Include Millets Dosa, Sambhar, Coconut Chutney, and Fresh Fruits"
+32,68,191,Madhya Pradesh,Lose Weight,General Balanced Diet with Local Foods
+51,89,194,Punjab,Stay Healthy,"Consume Wheat Roti, Dal Makhani (Light), and Lassi"
+35,75,150,Uttarakhand,Gain Weight,General Balanced Diet with Local Foods
+47,61,179,Uttar Pradesh,Stay Healthy,General Balanced Diet with Local Foods
+52,52,174,Telangana,Lose Weight,General Balanced Diet with Local Foods
+37,51,184,West Bengal,Stay Healthy,"Eat Fish Curry, Rice, Moong Dal, and Seasonal Fruits"
+44,90,155,Odisha,Lose Weight,General Balanced Diet with Local Foods
+51,77,189,Meghalaya,Gain Weight,General Balanced Diet with Local Foods
+52,59,176,Chhattisgarh,Lose Weight,General Balanced Diet with Local Foods
+18,59,181,Uttarakhand,Gain Weight,General Balanced Diet with Local Foods
+29,90,194,Jharkhand,Stay Healthy,General Balanced Diet with Local Foods
+26,58,160,Karnataka,Lose Weight,"Eat Ragi Roti, Vegetable Sambar, Sprouts, and Buttermilk"
+40,65,168,Meghalaya,Stay Healthy,General Balanced Diet with Local Foods
+41,75,185,Nagaland,Stay Healthy,General Balanced Diet with Local Foods
+52,53,152,Haryana,Stay Healthy,General Balanced Diet with Local Foods
+23,84,167,Gujarat,Stay Healthy,General Balanced Diet with Local Foods
+30,74,157,Bihar,Gain Weight,General Balanced Diet with Local Foods
+35,70,183,Punjab,Gain Weight,"Eat Makki di Roti, Sarson da Saag, Paneer Tikka, and Lassi"
+39,60,195,Bihar,Lose Weight,General Balanced Diet with Local Foods
+49,77,163,Odisha,Lose Weight,General Balanced Diet with Local Foods
+29,65,178,Jharkhand,Gain Weight,General Balanced Diet with Local Foods
+20,100,193,Maharashtra,Stay Healthy,"Have Dal Khichdi, Mixed Vegetable Curry, and Buttermilk"
+25,80,164,Uttarakhand,Stay Healthy,General Balanced Diet with Local Foods
+37,55,155,Manipur,Stay Healthy,General Balanced Diet with Local Foods
+43,52,175,Himachal Pradesh,Lose Weight,General Balanced Diet with Local Foods
+49,63,183,Karnataka,Gain Weight,"Include Ragi Mudde, Bisi Bele Bath, Ghee Dosa, and Banana Smoothies"
+25,68,185,Arunachal Pradesh,Stay Healthy,General Balanced Diet with Local Foods
+42,55,194,Assam,Stay Healthy,General Balanced Diet with Local Foods
+49,79,152,Nagaland,Lose Weight,General Balanced Diet with Local Foods
+60,88,194,Sikkim,Lose Weight,General Balanced Diet with Local Foods
+45,71,167,Mizoram,Gain Weight,General Balanced Diet with Local Foods
+31,73,194,Maharashtra,Lose Weight,"Opt for Jowar Bhakri, Poha, Sprouts Salad, and Lemon Water"
+48,77,151,Rajasthan,Stay Healthy,General Balanced Diet with Local Foods
+35,96,160,Manipur,Stay Healthy,General Balanced Diet with Local Foods
+19,89,188,Jharkhand,Lose Weight,General Balanced Diet with Local Foods
+59,51,179,Mizoram,Stay Healthy,General Balanced Diet with Local Foods
+45,78,152,Goa,Lose Weight,General Balanced Diet with Local Foods
+60,69,157,Nagaland,Lose Weight,General Balanced Diet with Local Foods
+28,65,180,Karnataka,Stay Healthy,"Consume Idli, Sambar, Fresh Fruits, and Curd"
+48,52,184,Punjab,Stay Healthy,"Consume Wheat Roti, Dal Makhani (Light), and Lassi"
+56,97,159,Punjab,Stay Healthy,"Consume Wheat Roti, Dal Makhani (Light), and Lassi"
+35,55,171,Bihar,Stay Healthy,General Balanced Diet with Local Foods
+59,69,159,Manipur,Lose Weight,General Balanced Diet with Local Foods
+50,78,167,Goa,Gain Weight,General Balanced Diet with Local Foods
+19,94,160,Uttarakhand,Gain Weight,General Balanced Diet with Local Foods
+19,52,179,Gujarat,Gain Weight,General Balanced Diet with Local Foods
+58,86,189,Nagaland,Stay Healthy,General Balanced Diet with Local Foods
+27,81,154,Meghalaya,Stay Healthy,General Balanced Diet with Local Foods
+54,82,192,Goa,Gain Weight,General Balanced Diet with Local Foods
+27,57,160,Manipur,Stay Healthy,General Balanced Diet with Local Foods
+24,91,155,Haryana,Lose Weight,General Balanced Diet with Local Foods
+29,54,184,Gujarat,Stay Healthy,General Balanced Diet with Local Foods
+24,75,166,Andhra Pradesh,Gain Weight,General Balanced Diet with Local Foods
+56,60,178,Jharkhand,Gain Weight,General Balanced Diet with Local Foods
+56,95,162,Goa,Lose Weight,General Balanced Diet with Local Foods
+19,72,150,Uttarakhand,Stay Healthy,General Balanced Diet with Local Foods
+40,82,151,Uttarakhand,Stay Healthy,General Balanced Diet with Local Foods
+24,92,174,Telangana,Gain Weight,General Balanced Diet with Local Foods
+31,79,165,Chhattisgarh,Stay Healthy,General Balanced Diet with Local Foods
+40,92,158,Tripura,Stay Healthy,General Balanced Diet with Local Foods
+47,53,165,Nagaland,Gain Weight,General Balanced Diet with Local Foods
+50,87,174,Madhya Pradesh,Stay Healthy,General Balanced Diet with Local Foods
+26,85,171,Mizoram,Lose Weight,General Balanced Diet with Local Foods
+47,91,181,Tamil Nadu,Stay Healthy,"Eat Idli, Sambar, Coconut Chutney, and Fresh Fruits"
+56,56,186,Maharashtra,Gain Weight,"Opt for Puran Poli, Basundi, Misal Pav, and Dry Fruits"
+25,94,157,Gujarat,Lose Weight,General Balanced Diet with Local Foods
+45,99,183,Jharkhand,Stay Healthy,General Balanced Diet with Local Foods
+20,92,161,Bihar,Stay Healthy,General Balanced Diet with Local Foods
+24,85,183,West Bengal,Stay Healthy,"Eat Fish Curry, Rice, Moong Dal, and Seasonal Fruits"
+48,52,190,Uttarakhand,Stay Healthy,General Balanced Diet with Local Foods
+39,83,150,Sikkim,Gain Weight,General Balanced Diet with Local Foods
+39,62,194,Gujarat,Stay Healthy,General Balanced Diet with Local Foods
+31,57,167,Manipur,Lose Weight,General Balanced Diet with Local Foods
+32,82,184,Himachal Pradesh,Gain Weight,General Balanced Diet with Local Foods
+34,96,175,Gujarat,Lose Weight,General Balanced Diet with Local Foods
+50,51,192,West Bengal,Stay Healthy,"Eat Fish Curry, Rice, Moong Dal, and Seasonal Fruits"
+50,97,162,Uttarakhand,Gain Weight,General Balanced Diet with Local Foods
+53,81,154,Mizoram,Gain Weight,General Balanced Diet with Local Foods
+60,60,183,Uttar Pradesh,Stay Healthy,General Balanced Diet with Local Foods
+58,64,193,Karnataka,Lose Weight,"Eat Ragi Roti, Vegetable Sambar, Sprouts, and Buttermilk"
+44,65,177,Bihar,Lose Weight,General Balanced Diet with Local Foods
+20,85,179,Jharkhand,Gain Weight,General Balanced Diet with Local Foods
+55,51,163,Telangana,Gain Weight,General Balanced Diet with Local Foods
+19,86,155,West Bengal,Stay Healthy,"Eat Fish Curry, Rice, Moong Dal, and Seasonal Fruits"
+43,75,164,Uttarakhand,Gain Weight,General Balanced Diet with Local Foods
+18,73,195,Tripura,Gain Weight,General Balanced Diet with Local Foods
+39,50,156,Assam,Stay Healthy,General Balanced Diet with Local Foods
+50,92,184,Rajasthan,Lose Weight,General Balanced Diet with Local Foods
+52,80,165,Bihar,Lose Weight,General Balanced Diet with Local Foods
+47,98,190,Arunachal Pradesh,Gain Weight,General Balanced Diet with Local Foods
+22,76,195,Uttarakhand,Gain Weight,General Balanced Diet with Local Foods
+59,93,188,Haryana,Gain Weight,General Balanced Diet with Local Foods
+41,66,164,Himachal Pradesh,Stay Healthy,General Balanced Diet with Local Foods
+45,65,193,Rajasthan,Gain Weight,General Balanced Diet with Local Foods
+22,53,168,Mizoram,Gain Weight,General Balanced Diet with Local Foods
+21,97,188,Tamil Nadu,Stay Healthy,"Eat Idli, Sambar, Coconut Chutney, and Fresh Fruits"
+20,89,165,Haryana,Gain Weight,General Balanced Diet with Local Foods
+58,79,184,Manipur,Lose Weight,General Balanced Diet with Local Foods
+45,90,166,Gujarat,Stay Healthy,General Balanced Diet with Local Foods
+58,72,172,Madhya Pradesh,Stay Healthy,General Balanced Diet with Local Foods
+58,51,156,Assam,Gain Weight,General Balanced Diet with Local Foods
+27,56,175,Tamil Nadu,Lose Weight,"Include Millets Dosa, Sambhar, Coconut Chutney, and Fresh Fruits"
+50,55,171,Gujarat,Stay Healthy,General Balanced Diet with Local Foods
+18,79,178,Karnataka,Lose Weight,"Eat Ragi Roti, Vegetable Sambar, Sprouts, and Buttermilk"
+50,66,194,Nagaland,Stay Healthy,General Balanced Diet with Local Foods
+36,52,176,Nagaland,Stay Healthy,General Balanced Diet with Local Foods
+20,66,164,Himachal Pradesh,Stay Healthy,General Balanced Diet with Local Foods
+40,88,176,Tripura,Lose Weight,General Balanced Diet with Local Foods
+39,100,150,Arunachal Pradesh,Gain Weight,General Balanced Diet with Local Foods
+39,54,167,Uttar Pradesh,Gain Weight,General Balanced Diet with Local Foods
+41,95,163,Gujarat,Gain Weight,General Balanced Diet with Local Foods
+50,98,158,Assam,Gain Weight,General Balanced Diet with Local Foods
+36,73,155,Punjab,Lose Weight,"Eat Missi Roti, Dal Tadka, Cucumber Raita, and Lemon Water"
+54,93,166,Uttar Pradesh,Gain Weight,General Balanced Diet with Local Foods
+46,72,194,Tripura,Gain Weight,General Balanced Diet with Local Foods
+24,66,156,Andhra Pradesh,Stay Healthy,General Balanced Diet with Local Foods
+55,54,176,Manipur,Lose Weight,General Balanced Diet with Local Foods
+32,99,178,Arunachal Pradesh,Gain Weight,General Balanced Diet with Local Foods
+39,83,175,Sikkim,Stay Healthy,General Balanced Diet with Local Foods
+42,99,185,Mizoram,Stay Healthy,General Balanced Diet with Local Foods
+46,67,171,Gujarat,Lose Weight,General Balanced Diet with Local Foods
+51,96,175,Bihar,Stay Healthy,General Balanced Diet with Local Foods
+40,85,183,Bihar,Stay Healthy,General Balanced Diet with Local Foods
+49,85,178,Uttar Pradesh,Lose Weight,General Balanced Diet with Local Foods
+28,51,180,Haryana,Gain Weight,General Balanced Diet with Local Foods
+51,93,158,Manipur,Gain Weight,General Balanced Diet with Local Foods
+22,71,183,Himachal Pradesh,Stay Healthy,General Balanced Diet with Local Foods
+60,80,161,Jharkhand,Lose Weight,General Balanced Diet with Local Foods
+45,100,186,Punjab,Gain Weight,"Eat Makki di Roti, Sarson da Saag, Paneer Tikka, and Lassi"
+52,81,182,Madhya Pradesh,Lose Weight,General Balanced Diet with Local Foods
+56,60,156,Tripura,Stay Healthy,General Balanced Diet with Local Foods
+53,51,178,Arunachal Pradesh,Stay Healthy,General Balanced Diet with Local Foods
+42,80,170,Tripura,Gain Weight,General Balanced Diet with Local Foods
+52,56,170,Odisha,Lose Weight,General Balanced Diet with Local Foods
+47,61,186,Chhattisgarh,Stay Healthy,General Balanced Diet with Local Foods
+27,66,156,Gujarat,Lose Weight,General Balanced Diet with Local Foods
+38,70,190,Karnataka,Stay Healthy,"Consume Idli, Sambar, Fresh Fruits, and Curd"
+27,60,176,Gujarat,Stay Healthy,General Balanced Diet with Local Foods
+46,77,152,Haryana,Lose Weight,General Balanced Diet with Local Foods
+19,91,150,West Bengal,Stay Healthy,"Eat Fish Curry, Rice, Moong Dal, and Seasonal Fruits"
+51,93,193,Bihar,Gain Weight,General Balanced Diet with Local Foods
+22,82,188,Meghalaya,Gain Weight,General Balanced Diet with Local Foods
+24,64,153,Nagaland,Stay Healthy,General Balanced Diet with Local Foods
+19,88,178,Chhattisgarh,Gain Weight,General Balanced Diet with Local Foods
+22,99,158,Andhra Pradesh,Gain Weight,General Balanced Diet with Local Foods
+56,61,158,Tripura,Lose Weight,General Balanced Diet with Local Foods
+42,62,192,Andhra Pradesh,Gain Weight,General Balanced Diet with Local Foods
+30,73,175,Kerala,Lose Weight,"Consume Brown Rice, Avial, Cucumber Salad, and Coconut Water"
+28,62,159,Andhra Pradesh,Stay Healthy,General Balanced Diet with Local Foods
+41,67,190,Mizoram,Gain Weight,General Balanced Diet with Local Foods
+53,51,194,Tamil Nadu,Lose Weight,"Include Millets Dosa, Sambhar, Coconut Chutney, and Fresh Fruits"
+34,56,161,Manipur,Stay Healthy,General Balanced Diet with Local Foods
+37,52,177,Tamil Nadu,Gain Weight,"Include Pongal, Dosa with Butter, Filter Coffee, and Curd Rice"
+46,91,190,Manipur,Stay Healthy,General Balanced Diet with Local Foods
+37,71,174,Tripura,Gain Weight,General Balanced Diet with Local Foods
+18,67,181,Karnataka,Gain Weight,"Include Ragi Mudde, Bisi Bele Bath, Ghee Dosa, and Banana Smoothies"
+42,54,155,Uttarakhand,Lose Weight,General Balanced Diet with Local Foods
+24,94,160,Gujarat,Lose Weight,General Balanced Diet with Local Foods
+44,80,150,Rajasthan,Lose Weight,General Balanced Diet with Local Foods
+21,97,173,Odisha,Gain Weight,General Balanced Diet with Local Foods
+50,62,163,Punjab,Stay Healthy,"Consume Wheat Roti, Dal Makhani (Light), and Lassi"
+43,90,183,West Bengal,Stay Healthy,"Eat Fish Curry, Rice, Moong Dal, and Seasonal Fruits"
+22,90,175,Uttar Pradesh,Stay Healthy,General Balanced Diet with Local Foods
+31,52,157,Jharkhand,Gain Weight,General Balanced Diet with Local Foods
+40,59,170,Mizoram,Gain Weight,General Balanced Diet with Local Foods
+59,50,165,Maharashtra,Stay Healthy,"Have Dal Khichdi, Mixed Vegetable Curry, and Buttermilk"
+37,72,178,Rajasthan,Lose Weight,General Balanced Diet with Local Foods
+36,66,190,Uttarakhand,Lose Weight,General Balanced Diet with Local Foods
+55,53,195,Uttarakhand,Stay Healthy,General Balanced Diet with Local Foods
+44,65,171,Goa,Stay Healthy,General Balanced Diet with Local Foods
+60,72,157,Uttar Pradesh,Stay Healthy,General Balanced Diet with Local Foods
+28,59,195,Chhattisgarh,Gain Weight,General Balanced Diet with Local Foods
+22,71,159,Uttarakhand,Gain Weight,General Balanced Diet with Local Foods
+26,91,178,Punjab,Stay Healthy,"Consume Wheat Roti, Dal Makhani (Light), and Lassi"
+31,56,187,Nagaland,Stay Healthy,General Balanced Diet with Local Foods
+46,76,173,West Bengal,Gain Weight,"Consume Rice, Macher Jhol, Sweets like Rosogolla, and Milk"
+46,54,189,Karnataka,Stay Healthy,"Consume Idli, Sambar, Fresh Fruits, and Curd"
+44,93,160,Rajasthan,Gain Weight,General Balanced Diet with Local Foods
+44,64,159,Madhya Pradesh,Gain Weight,General Balanced Diet with Local Foods
+53,66,171,Tripura,Stay Healthy,General Balanced Diet with Local Foods
+21,75,171,Uttarakhand,Gain Weight,General Balanced Diet with Local Foods
+44,67,192,Uttar Pradesh,Gain Weight,General Balanced Diet with Local Foods
+19,57,172,Gujarat,Stay Healthy,General Balanced Diet with Local Foods
+53,52,162,Jharkhand,Lose Weight,General Balanced Diet with Local Foods
+58,78,162,Rajasthan,Gain Weight,General Balanced Diet with Local Foods
+46,69,175,Chhattisgarh,Stay Healthy,General Balanced Diet with Local Foods
+50,96,171,Andhra Pradesh,Stay Healthy,General Balanced Diet with Local Foods
+24,58,162,Tripura,Gain Weight,General Balanced Diet with Local Foods
+34,69,180,Telangana,Gain Weight,General Balanced Diet with Local Foods
+34,61,174,West Bengal,Stay Healthy,"Eat Fish Curry, Rice, Moong Dal, and Seasonal Fruits"
+60,52,163,Uttarakhand,Stay Healthy,General Balanced Diet with Local Foods
+21,97,190,Punjab,Gain Weight,"Eat Makki di Roti, Sarson da Saag, Paneer Tikka, and Lassi"
+35,55,182,Andhra Pradesh,Lose Weight,General Balanced Diet with Local Foods
+34,75,191,Arunachal Pradesh,Lose Weight,General Balanced Diet with Local Foods
+18,91,193,West Bengal,Stay Healthy,"Eat Fish Curry, Rice, Moong Dal, and Seasonal Fruits"
+30,66,156,Bihar,Gain Weight,General Balanced Diet with Local Foods
+48,50,190,Himachal Pradesh,Gain Weight,General Balanced Diet with Local Foods
+54,80,155,Punjab,Gain Weight,"Eat Makki di Roti, Sarson da Saag, Paneer Tikka, and Lassi"
+22,62,155,Haryana,Gain Weight,General Balanced Diet with Local Foods
+28,79,192,Chhattisgarh,Gain Weight,General Balanced Diet with Local Foods
+56,57,169,Haryana,Lose Weight,General Balanced Diet with Local Foods
+19,61,157,Maharashtra,Lose Weight,"Opt for Jowar Bhakri, Poha, Sprouts Salad, and Lemon Water"
+32,55,172,Bihar,Stay Healthy,General Balanced Diet with Local Foods
+41,52,171,Rajasthan,Gain Weight,General Balanced Diet with Local Foods
+19,98,157,Himachal Pradesh,Lose Weight,General Balanced Diet with Local Foods
+46,59,164,West Bengal,Stay Healthy,"Eat Fish Curry, Rice, Moong Dal, and Seasonal Fruits"
+43,55,187,West Bengal,Lose Weight,"Have Moong Dal Khichdi, Grilled Fish, and Seasonal Fruits"
+28,64,182,Sikkim,Stay Healthy,General Balanced Diet with Local Foods
+41,70,180,Manipur,Gain Weight,General Balanced Diet with Local Foods
+52,66,179,Punjab,Gain Weight,"Eat Makki di Roti, Sarson da Saag, Paneer Tikka, and Lassi"
+22,82,175,Rajasthan,Gain Weight,General Balanced Diet with Local Foods
+50,95,188,Karnataka,Lose Weight,"Eat Ragi Roti, Vegetable Sambar, Sprouts, and Buttermilk"
+22,95,191,Telangana,Lose Weight,General Balanced Diet with Local Foods
+40,99,195,Chhattisgarh,Lose Weight,General Balanced Diet with Local Foods
+55,58,188,Bihar,Gain Weight,General Balanced Diet with Local Foods
+35,89,167,Sikkim,Stay Healthy,General Balanced Diet with Local Foods
+54,68,183,Mizoram,Stay Healthy,General Balanced Diet with Local Foods
+33,58,171,Jharkhand,Lose Weight,General Balanced Diet with Local Foods
+54,58,153,West Bengal,Lose Weight,"Have Moong Dal Khichdi, Grilled Fish, and Seasonal Fruits"
+46,82,192,Himachal Pradesh,Stay Healthy,General Balanced Diet with Local Foods
+28,64,183,Himachal Pradesh,Gain Weight,General Balanced Diet with Local Foods
+55,70,160,Gujarat,Stay Healthy,General Balanced Diet with Local Foods
+27,90,167,Gujarat,Stay Healthy,General Balanced Diet with Local Foods
+25,52,154,Karnataka,Lose Weight,"Eat Ragi Roti, Vegetable Sambar, Sprouts, and Buttermilk"
+27,69,170,Himachal Pradesh,Gain Weight,General Balanced Diet with Local Foods
+54,80,180,Manipur,Gain Weight,General Balanced Diet with Local Foods
+52,88,151,Andhra Pradesh,Stay Healthy,General Balanced Diet with Local Foods
+35,92,189,Madhya Pradesh,Gain Weight,General Balanced Diet with Local Foods
+29,99,169,West Bengal,Lose Weight,"Have Moong Dal Khichdi, Grilled Fish, and Seasonal Fruits"
+25,59,166,Maharashtra,Lose Weight,"Opt for Jowar Bhakri, Poha, Sprouts Salad, and Lemon Water"
+45,76,160,Punjab,Lose Weight,"Eat Missi Roti, Dal Tadka, Cucumber Raita, and Lemon Water"
+34,56,152,Punjab,Stay Healthy,"Consume Wheat Roti, Dal Makhani (Light), and Lassi"
+34,77,183,Tripura,Gain Weight,General Balanced Diet with Local Foods
+24,75,191,Arunachal Pradesh,Gain Weight,General Balanced Diet with Local Foods
+30,87,163,Meghalaya,Stay Healthy,General Balanced Diet with Local Foods
+28,82,183,Sikkim,Gain Weight,General Balanced Diet with Local Foods
+36,60,190,Nagaland,Lose Weight,General Balanced Diet with Local Foods
+19,69,155,Meghalaya,Lose Weight,General Balanced Diet with Local Foods
+31,56,192,Tripura,Lose Weight,General Balanced Diet with Local Foods
+35,63,178,Sikkim,Lose Weight,General Balanced Diet with Local Foods
+55,76,168,Mizoram,Lose Weight,General Balanced Diet with Local Foods
+56,72,176,Odisha,Lose Weight,General Balanced Diet with Local Foods
+26,67,188,Bihar,Lose Weight,General Balanced Diet with Local Foods
+46,71,192,Arunachal Pradesh,Gain Weight,General Balanced Diet with Local Foods
+22,70,159,West Bengal,Gain Weight,"Consume Rice, Macher Jhol, Sweets like Rosogolla, and Milk"
+34,82,157,West Bengal,Lose Weight,"Have Moong Dal Khichdi, Grilled Fish, and Seasonal Fruits"
+19,69,159,Andhra Pradesh,Stay Healthy,General Balanced Diet with Local Foods
+30,99,178,Tripura,Gain Weight,General Balanced Diet with Local Foods
+24,88,156,Tamil Nadu,Stay Healthy,"Eat Idli, Sambar, Coconut Chutney, and Fresh Fruits"
+47,89,179,Gujarat,Gain Weight,General Balanced Diet with Local Foods
+30,61,174,Telangana,Gain Weight,General Balanced Diet with Local Foods
+26,93,159,Uttarakhand,Lose Weight,General Balanced Diet with Local Foods
+22,77,193,West Bengal,Lose Weight,"Have Moong Dal Khichdi, Grilled Fish, and Seasonal Fruits"
+34,67,184,Himachal Pradesh,Lose Weight,General Balanced Diet with Local Foods
+34,59,163,Madhya Pradesh,Stay Healthy,General Balanced Diet with Local Foods
+44,87,161,Chhattisgarh,Stay Healthy,General Balanced Diet with Local Foods
+41,97,168,Uttar Pradesh,Gain Weight,General Balanced Diet with Local Foods
+37,65,155,Mizoram,Stay Healthy,General Balanced Diet with Local Foods
+34,71,166,Telangana,Gain Weight,General Balanced Diet with Local Foods
+52,65,164,Assam,Lose Weight,General Balanced Diet with Local Foods
+49,61,180,Nagaland,Stay Healthy,General Balanced Diet with Local Foods
+49,65,157,Uttarakhand,Stay Healthy,General Balanced Diet with Local Foods
+19,73,195,Goa,Lose Weight,General Balanced Diet with Local Foods
+50,76,170,Odisha,Lose Weight,General Balanced Diet with Local Foods
+39,70,171,Arunachal Pradesh,Lose Weight,General Balanced Diet with Local Foods
+24,75,178,Assam,Lose Weight,General Balanced Diet with Local Foods
+20,80,152,Punjab,Gain Weight,"Eat Makki di Roti, Sarson da Saag, Paneer Tikka, and Lassi"
+42,99,173,West Bengal,Gain Weight,"Consume Rice, Macher Jhol, Sweets like Rosogolla, and Milk"
+50,65,187,Himachal Pradesh,Stay Healthy,General Balanced Diet with Local Foods
+59,83,173,Punjab,Lose Weight,"Eat Missi Roti, Dal Tadka, Cucumber Raita, and Lemon Water"
+32,100,172,Mizoram,Stay Healthy,General Balanced Diet with Local Foods
+29,61,192,Uttar Pradesh,Lose Weight,General Balanced Diet with Local Foods
+47,88,159,Haryana,Gain Weight,General Balanced Diet with Local Foods
+21,53,150,Bihar,Gain Weight,General Balanced Diet with Local Foods
+23,73,160,Tripura,Stay Healthy,General Balanced Diet with Local Foods
+49,66,190,Manipur,Stay Healthy,General Balanced Diet with Local Foods
+56,97,193,West Bengal,Stay Healthy,"Eat Fish Curry, Rice, Moong Dal, and Seasonal Fruits"
+42,97,155,Andhra Pradesh,Gain Weight,General Balanced Diet with Local Foods
+24,90,163,Gujarat,Lose Weight,General Balanced Diet with Local Foods
+60,91,173,Gujarat,Lose Weight,General Balanced Diet with Local Foods
+47,62,171,West Bengal,Gain Weight,"Consume Rice, Macher Jhol, Sweets like Rosogolla, and Milk"
+37,88,166,Karnataka,Stay Healthy,"Consume Idli, Sambar, Fresh Fruits, and Curd"
+47,76,192,Himachal Pradesh,Gain Weight,General Balanced Diet with Local Foods
+30,99,189,Goa,Stay Healthy,General Balanced Diet with Local Foods
+55,78,153,Kerala,Stay Healthy,"Include Idiyappam, Vegetable Stew, and Fresh Coconut Water"
+18,76,151,Tripura,Gain Weight,General Balanced Diet with Local Foods
+39,88,152,Uttarakhand,Stay Healthy,General Balanced Diet with Local Foods
+38,80,191,Rajasthan,Gain Weight,General Balanced Diet with Local Foods
+23,78,162,Uttar Pradesh,Lose Weight,General Balanced Diet with Local Foods
+19,98,169,Mizoram,Stay Healthy,General Balanced Diet with Local Foods
+52,50,178,Manipur,Gain Weight,General Balanced Diet with Local Foods
+23,84,176,Rajasthan,Lose Weight,General Balanced Diet with Local Foods
+53,94,184,Madhya Pradesh,Lose Weight,General Balanced Diet with Local Foods
+25,95,187,Kerala,Lose Weight,"Consume Brown Rice, Avial, Cucumber Salad, and Coconut Water"
+29,92,188,Goa,Stay Healthy,General Balanced Diet with Local Foods
+19,70,154,Maharashtra,Lose Weight,"Opt for Jowar Bhakri, Poha, Sprouts Salad, and Lemon Water"
+58,94,178,Karnataka,Stay Healthy,"Consume Idli, Sambar, Fresh Fruits, and Curd"
+55,61,195,Uttarakhand,Stay Healthy,General Balanced Diet with Local Foods
+32,75,169,Himachal Pradesh,Gain Weight,General Balanced Diet with Local Foods
+39,78,166,Odisha,Stay Healthy,General Balanced Diet with Local Foods
+18,83,168,Tripura,Lose Weight,General Balanced Diet with Local Foods
+52,78,188,Odisha,Stay Healthy,General Balanced Diet with Local Foods
+21,79,168,West Bengal,Lose Weight,"Have Moong Dal Khichdi, Grilled Fish, and Seasonal Fruits"
+44,63,188,Tamil Nadu,Lose Weight,"Include Millets Dosa, Sambhar, Coconut Chutney, and Fresh Fruits"
+48,95,185,Uttarakhand,Gain Weight,General Balanced Diet with Local Foods
+26,69,189,Tamil Nadu,Lose Weight,"Include Millets Dosa, Sambhar, Coconut Chutney, and Fresh Fruits"
+52,58,164,Andhra Pradesh,Gain Weight,General Balanced Diet with Local Foods
+31,97,181,Punjab,Gain Weight,"Eat Makki di Roti, Sarson da Saag, Paneer Tikka, and Lassi"
+25,84,164,Karnataka,Lose Weight,"Eat Ragi Roti, Vegetable Sambar, Sprouts, and Buttermilk"
+35,88,169,Gujarat,Gain Weight,General Balanced Diet with Local Foods
+50,64,190,Manipur,Gain Weight,General Balanced Diet with Local Foods
+34,94,185,Arunachal Pradesh,Gain Weight,General Balanced Diet with Local Foods
+28,65,171,Tamil Nadu,Stay Healthy,"Eat Idli, Sambar, Coconut Chutney, and Fresh Fruits"
+53,74,175,Arunachal Pradesh,Lose Weight,General Balanced Diet with Local Foods
+41,82,186,Madhya Pradesh,Gain Weight,General Balanced Diet with Local Foods
+57,93,192,Bihar,Stay Healthy,General Balanced Diet with Local Foods
+33,90,189,Sikkim,Gain Weight,General Balanced Diet with Local Foods
+23,94,190,Telangana,Stay Healthy,General Balanced Diet with Local Foods
+56,98,191,Bihar,Gain Weight,General Balanced Diet with Local Foods
+41,57,180,Meghalaya,Gain Weight,General Balanced Diet with Local Foods
+31,78,150,Gujarat,Stay Healthy,General Balanced Diet with Local Foods
+36,52,160,Punjab,Gain Weight,"Eat Makki di Roti, Sarson da Saag, Paneer Tikka, and Lassi"
+20,68,193,Meghalaya,Stay Healthy,General Balanced Diet with Local Foods
+30,89,164,Maharashtra,Gain Weight,"Opt for Puran Poli, Basundi, Misal Pav, and Dry Fruits"
+37,79,169,Uttar Pradesh,Stay Healthy,General Balanced Diet with Local Foods
+46,95,164,Tamil Nadu,Lose Weight,"Include Millets Dosa, Sambhar, Coconut Chutney, and Fresh Fruits"
+50,50,152,Uttar Pradesh,Lose Weight,General Balanced Diet with Local Foods
+40,94,168,Telangana,Stay Healthy,General Balanced Diet with Local Foods
+36,77,184,Goa,Lose Weight,General Balanced Diet with Local Foods
+56,62,170,Haryana,Gain Weight,General Balanced Diet with Local Foods
+43,55,157,Karnataka,Gain Weight,"Include Ragi Mudde, Bisi Bele Bath, Ghee Dosa, and Banana Smoothies"
+21,78,172,Andhra Pradesh,Lose Weight,General Balanced Diet with Local Foods
+29,87,180,Maharashtra,Stay Healthy,"Have Dal Khichdi, Mixed Vegetable Curry, and Buttermilk"
+40,80,180,Mizoram,Lose Weight,General Balanced Diet with Local Foods
+28,76,161,Rajasthan,Stay Healthy,General Balanced Diet with Local Foods
+21,70,186,Kerala,Stay Healthy,"Include Idiyappam, Vegetable Stew, and Fresh Coconut Water"
+40,60,194,Kerala,Stay Healthy,"Include Idiyappam, Vegetable Stew, and Fresh Coconut Water"
+27,87,165,Madhya Pradesh,Lose Weight,General Balanced Diet with Local Foods
+18,98,194,Kerala,Gain Weight,"Have Puttu with Coconut Milk, Banana Fry, and Fish Curry"
+50,96,150,Haryana,Lose Weight,General Balanced Diet with Local Foods
+55,76,167,Manipur,Gain Weight,General Balanced Diet with Local Foods
+47,82,160,Rajasthan,Gain Weight,General Balanced Diet with Local Foods
+31,89,181,Maharashtra,Lose Weight,"Opt for Jowar Bhakri, Poha, Sprouts Salad, and Lemon Water"
+30,63,178,Arunachal Pradesh,Stay Healthy,General Balanced Diet with Local Foods
+50,51,178,Sikkim,Gain Weight,General Balanced Diet with Local Foods
+40,61,192,Madhya Pradesh,Gain Weight,General Balanced Diet with Local Foods
+56,94,172,Uttar Pradesh,Gain Weight,General Balanced Diet with Local Foods
+36,73,174,Uttarakhand,Gain Weight,General Balanced Diet with Local Foods
+58,63,178,Assam,Lose Weight,General Balanced Diet with Local Foods
+56,100,171,Chhattisgarh,Stay Healthy,General Balanced Diet with Local Foods
+47,56,175,Himachal Pradesh,Lose Weight,General Balanced Diet with Local Foods
+58,94,160,Bihar,Lose Weight,General Balanced Diet with Local Foods
+58,59,172,Kerala,Gain Weight,"Have Puttu with Coconut Milk, Banana Fry, and Fish Curry"
+22,70,189,Haryana,Gain Weight,General Balanced Diet with Local Foods
+44,71,159,Arunachal Pradesh,Stay Healthy,General Balanced Diet with Local Foods
+18,55,186,Odisha,Gain Weight,General Balanced Diet with Local Foods
+57,59,185,Maharashtra,Stay Healthy,"Have Dal Khichdi, Mixed Vegetable Curry, and Buttermilk"
+34,76,163,Nagaland,Gain Weight,General Balanced Diet with Local Foods
+57,75,170,Jharkhand,Stay Healthy,General Balanced Diet with Local Foods
+21,82,169,Odisha,Lose Weight,General Balanced Diet with Local Foods
+33,50,169,Karnataka,Gain Weight,"Include Ragi Mudde, Bisi Bele Bath, Ghee Dosa, and Banana Smoothies"
+55,66,194,Karnataka,Lose Weight,"Eat Ragi Roti, Vegetable Sambar, Sprouts, and Buttermilk"
+53,55,150,Arunachal Pradesh,Gain Weight,General Balanced Diet with Local Foods
+25,63,173,Uttarakhand,Stay Healthy,General Balanced Diet with Local Foods
+32,86,187,Manipur,Lose Weight,General Balanced Diet with Local Foods
+30,100,150,Chhattisgarh,Gain Weight,General Balanced Diet with Local Foods
+36,88,163,Punjab,Stay Healthy,"Consume Wheat Roti, Dal Makhani (Light), and Lassi"
+33,61,157,Telangana,Stay Healthy,General Balanced Diet with Local Foods
+23,77,172,Madhya Pradesh,Lose Weight,General Balanced Diet with Local Foods
+29,50,184,Uttar Pradesh,Lose Weight,General Balanced Diet with Local Foods
+45,84,170,Andhra Pradesh,Stay Healthy,General Balanced Diet with Local Foods
+18,66,189,Uttarakhand,Lose Weight,General Balanced Diet with Local Foods
+45,95,164,Arunachal Pradesh,Gain Weight,General Balanced Diet with Local Foods
+56,87,166,Telangana,Lose Weight,General Balanced Diet with Local Foods
+56,85,186,Punjab,Stay Healthy,"Consume Wheat Roti, Dal Makhani (Light), and Lassi"
+19,75,180,Arunachal Pradesh,Lose Weight,General Balanced Diet with Local Foods
+55,84,191,Kerala,Lose Weight,"Consume Brown Rice, Avial, Cucumber Salad, and Coconut Water"
+48,59,173,Madhya Pradesh,Lose Weight,General Balanced Diet with Local Foods
+25,84,169,Punjab,Gain Weight,"Eat Makki di Roti, Sarson da Saag, Paneer Tikka, and Lassi"
+37,87,178,Sikkim,Stay Healthy,General Balanced Diet with Local Foods
+37,92,173,Andhra Pradesh,Stay Healthy,General Balanced Diet with Local Foods
+31,67,156,Karnataka,Stay Healthy,"Consume Idli, Sambar, Fresh Fruits, and Curd"
+35,69,162,Sikkim,Stay Healthy,General Balanced Diet with Local Foods
+47,76,187,Punjab,Lose Weight,"Eat Missi Roti, Dal Tadka, Cucumber Raita, and Lemon Water"
+54,63,151,Manipur,Gain Weight,General Balanced Diet with Local Foods
+34,96,173,Odisha,Stay Healthy,General Balanced Diet with Local Foods
+48,58,170,Mizoram,Gain Weight,General Balanced Diet with Local Foods
+22,52,189,Uttarakhand,Gain Weight,General Balanced Diet with Local Foods
+20,50,164,Goa,Gain Weight,General Balanced Diet with Local Foods
+42,77,157,Bihar,Stay Healthy,General Balanced Diet with Local Foods
+26,81,184,Rajasthan,Stay Healthy,General Balanced Diet with Local Foods
+58,89,176,Nagaland,Lose Weight,General Balanced Diet with Local Foods
+50,93,181,Rajasthan,Gain Weight,General Balanced Diet with Local Foods
+57,92,164,Madhya Pradesh,Gain Weight,General Balanced Diet with Local Foods
+35,58,186,Madhya Pradesh,Stay Healthy,General Balanced Diet with Local Foods
+46,60,179,Goa,Lose Weight,General Balanced Diet with Local Foods
+29,78,172,Odisha,Stay Healthy,General Balanced Diet with Local Foods
+25,80,176,Gujarat,Gain Weight,General Balanced Diet with Local Foods
+32,66,160,Jharkhand,Stay Healthy,General Balanced Diet with Local Foods
+41,98,155,Andhra Pradesh,Stay Healthy,General Balanced Diet with Local Foods
+44,89,155,Rajasthan,Stay Healthy,General Balanced Diet with Local Foods
+31,91,158,Maharashtra,Gain Weight,"Opt for Puran Poli, Basundi, Misal Pav, and Dry Fruits"
+59,90,183,Andhra Pradesh,Stay Healthy,General Balanced Diet with Local Foods
+49,55,174,Manipur,Stay Healthy,General Balanced Diet with Local Foods
+29,97,175,West Bengal,Lose Weight,"Have Moong Dal Khichdi, Grilled Fish, and Seasonal Fruits"
+33,64,186,Uttarakhand,Lose Weight,General Balanced Diet with Local Foods
+58,82,193,Maharashtra,Stay Healthy,"Have Dal Khichdi, Mixed Vegetable Curry, and Buttermilk"
+54,97,169,Nagaland,Lose Weight,General Balanced Diet with Local Foods
+57,95,159,West Bengal,Stay Healthy,"Eat Fish Curry, Rice, Moong Dal, and Seasonal Fruits"
+28,64,182,Arunachal Pradesh,Lose Weight,General Balanced Diet with Local Foods
+54,98,159,Uttarakhand,Stay Healthy,General Balanced Diet with Local Foods
+19,78,163,Jharkhand,Gain Weight,General Balanced Diet with Local Foods
+47,88,150,Nagaland,Stay Healthy,General Balanced Diet with Local Foods
+33,59,168,Chhattisgarh,Stay Healthy,General Balanced Diet with Local Foods
+40,69,168,Rajasthan,Lose Weight,General Balanced Diet with Local Foods
+18,61,184,Mizoram,Lose Weight,General Balanced Diet with Local Foods
+53,80,192,Maharashtra,Gain Weight,"Opt for Puran Poli, Basundi, Misal Pav, and Dry Fruits"
+28,72,165,Rajasthan,Lose Weight,General Balanced Diet with Local Foods
+58,55,150,Assam,Lose Weight,General Balanced Diet with Local Foods
+54,87,152,Tripura,Lose Weight,General Balanced Diet with Local Foods
+41,88,176,Arunachal Pradesh,Gain Weight,General Balanced Diet with Local Foods
+49,74,162,Goa,Stay Healthy,General Balanced Diet with Local Foods
+55,83,190,Nagaland,Stay Healthy,General Balanced Diet with Local Foods
+42,89,193,Maharashtra,Stay Healthy,"Have Dal Khichdi, Mixed Vegetable Curry, and Buttermilk"
+38,63,174,West Bengal,Lose Weight,"Have Moong Dal Khichdi, Grilled Fish, and Seasonal Fruits"
+31,50,159,Andhra Pradesh,Lose Weight,General Balanced Diet with Local Foods
+31,78,193,Arunachal Pradesh,Stay Healthy,General Balanced Diet with Local Foods
+47,95,152,Kerala,Lose Weight,"Consume Brown Rice, Avial, Cucumber Salad, and Coconut Water"
+35,84,151,Andhra Pradesh,Lose Weight,General Balanced Diet with Local Foods
+20,84,172,Andhra Pradesh,Lose Weight,General Balanced Diet with Local Foods
+49,84,183,Haryana,Gain Weight,General Balanced Diet with Local Foods
+30,57,178,Bihar,Lose Weight,General Balanced Diet with Local Foods
+30,50,174,Karnataka,Stay Healthy,"Consume Idli, Sambar, Fresh Fruits, and Curd"
+34,67,174,Odisha,Stay Healthy,General Balanced Diet with Local Foods
+21,99,157,Mizoram,Lose Weight,General Balanced Diet with Local Foods
+27,92,151,Uttarakhand,Gain Weight,General Balanced Diet with Local Foods
+24,59,175,Manipur,Stay Healthy,General Balanced Diet with Local Foods
+55,89,162,Gujarat,Gain Weight,General Balanced Diet with Local Foods
+20,84,182,Telangana,Stay Healthy,General Balanced Diet with Local Foods
+24,92,190,Gujarat,Gain Weight,General Balanced Diet with Local Foods
+20,99,184,Kerala,Gain Weight,"Have Puttu with Coconut Milk, Banana Fry, and Fish Curry"
+50,63,165,Andhra Pradesh,Stay Healthy,General Balanced Diet with Local Foods
+25,53,158,West Bengal,Stay Healthy,"Eat Fish Curry, Rice, Moong Dal, and Seasonal Fruits"
+45,60,165,Goa,Lose Weight,General Balanced Diet with Local Foods
+54,56,157,Andhra Pradesh,Stay Healthy,General Balanced Diet with Local Foods
+37,93,183,Punjab,Lose Weight,"Eat Missi Roti, Dal Tadka, Cucumber Raita, and Lemon Water"
+22,78,173,Assam,Stay Healthy,General Balanced Diet with Local Foods
+60,88,161,Tripura,Stay Healthy,General Balanced Diet with Local Foods
+22,94,155,Kerala,Lose Weight,"Consume Brown Rice, Avial, Cucumber Salad, and Coconut Water"
+27,93,193,Gujarat,Lose Weight,General Balanced Diet with Local Foods
+19,79,169,Manipur,Stay Healthy,General Balanced Diet with Local Foods
+54,74,166,Telangana,Stay Healthy,General Balanced Diet with Local Foods
+49,60,152,West Bengal,Lose Weight,"Have Moong Dal Khichdi, Grilled Fish, and Seasonal Fruits"
+19,56,164,Assam,Lose Weight,General Balanced Diet with Local Foods
+34,76,182,Sikkim,Lose Weight,General Balanced Diet with Local Foods
+20,90,181,Manipur,Stay Healthy,General Balanced Diet with Local Foods
+58,54,173,Nagaland,Lose Weight,General Balanced Diet with Local Foods
+50,83,187,Karnataka,Stay Healthy,"Consume Idli, Sambar, Fresh Fruits, and Curd"
+50,85,161,Karnataka,Gain Weight,"Include Ragi Mudde, Bisi Bele Bath, Ghee Dosa, and Banana Smoothies"
+58,84,185,Nagaland,Stay Healthy,General Balanced Diet with Local Foods
+23,95,162,Meghalaya,Lose Weight,General Balanced Diet with Local Foods
+34,71,182,Kerala,Gain Weight,"Have Puttu with Coconut Milk, Banana Fry, and Fish Curry"
+43,73,155,Bihar,Gain Weight,General Balanced Diet with Local Foods
+28,79,193,Tamil Nadu,Stay Healthy,"Eat Idli, Sambar, Coconut Chutney, and Fresh Fruits"
+21,61,175,Assam,Gain Weight,General Balanced Diet with Local Foods
+53,100,162,Odisha,Gain Weight,General Balanced Diet with Local Foods
+19,53,189,Himachal Pradesh,Lose Weight,General Balanced Diet with Local Foods
+59,64,154,Tripura,Gain Weight,General Balanced Diet with Local Foods
+31,50,191,Himachal Pradesh,Lose Weight,General Balanced Diet with Local Foods
+37,92,150,Arunachal Pradesh,Stay Healthy,General Balanced Diet with Local Foods
+54,56,167,Bihar,Gain Weight,General Balanced Diet with Local Foods
+59,63,179,Gujarat,Lose Weight,General Balanced Diet with Local Foods
+58,81,162,Kerala,Lose Weight,"Consume Brown Rice, Avial, Cucumber Salad, and Coconut Water"
+45,75,194,Haryana,Stay Healthy,General Balanced Diet with Local Foods
+43,90,173,Chhattisgarh,Stay Healthy,General Balanced Diet with Local Foods
+43,65,181,Manipur,Stay Healthy,General Balanced Diet with Local Foods
+60,66,184,Telangana,Gain Weight,General Balanced Diet with Local Foods
+27,68,186,Tamil Nadu,Lose Weight,"Include Millets Dosa, Sambhar, Coconut Chutney, and Fresh Fruits"
+30,65,161,Assam,Stay Healthy,General Balanced Diet with Local Foods
+20,78,158,Chhattisgarh,Stay Healthy,General Balanced Diet with Local Foods
+31,74,182,Chhattisgarh,Stay Healthy,General Balanced Diet with Local Foods
+40,58,161,Meghalaya,Lose Weight,General Balanced Diet with Local Foods
+42,99,152,Uttar Pradesh,Gain Weight,General Balanced Diet with Local Foods
+23,94,172,Uttarakhand,Lose Weight,General Balanced Diet with Local Foods
+29,83,194,Tripura,Gain Weight,General Balanced Diet with Local Foods
+31,71,191,Assam,Lose Weight,General Balanced Diet with Local Foods
+31,51,177,Maharashtra,Stay Healthy,"Have Dal Khichdi, Mixed Vegetable Curry, and Buttermilk"
+32,78,162,Haryana,Gain Weight,General Balanced Diet with Local Foods
+24,81,172,Nagaland,Stay Healthy,General Balanced Diet with Local Foods
+58,51,155,Mizoram,Gain Weight,General Balanced Diet with Local Foods
+47,86,173,Arunachal Pradesh,Lose Weight,General Balanced Diet with Local Foods
+29,92,159,Uttarakhand,Stay Healthy,General Balanced Diet with Local Foods
+31,57,153,Arunachal Pradesh,Lose Weight,General Balanced Diet with Local Foods
+34,79,181,Manipur,Stay Healthy,General Balanced Diet with Local Foods
+39,60,153,Bihar,Stay Healthy,General Balanced Diet with Local Foods
+27,66,191,Sikkim,Gain Weight,General Balanced Diet with Local Foods
+46,57,186,Telangana,Gain Weight,General Balanced Diet with Local Foods
+45,68,188,Goa,Lose Weight,General Balanced Diet with Local Foods
+29,57,150,Goa,Gain Weight,General Balanced Diet with Local Foods
+19,98,163,Jharkhand,Stay Healthy,General Balanced Diet with Local Foods
+26,91,166,Mizoram,Gain Weight,General Balanced Diet with Local Foods
+28,55,156,Andhra Pradesh,Gain Weight,General Balanced Diet with Local Foods
+58,66,181,Jharkhand,Lose Weight,General Balanced Diet with Local Foods
+35,59,165,Jharkhand,Lose Weight,General Balanced Diet with Local Foods
+38,77,179,Kerala,Stay Healthy,"Include Idiyappam, Vegetable Stew, and Fresh Coconut Water"
+56,65,181,Maharashtra,Stay Healthy,"Have Dal Khichdi, Mixed Vegetable Curry, and Buttermilk"
+34,90,189,Tamil Nadu,Stay Healthy,"Eat Idli, Sambar, Coconut Chutney, and Fresh Fruits"
+35,91,167,Tamil Nadu,Stay Healthy,"Eat Idli, Sambar, Coconut Chutney, and Fresh Fruits"
+46,83,185,Meghalaya,Stay Healthy,General Balanced Diet with Local Foods
+37,94,162,Uttar Pradesh,Gain Weight,General Balanced Diet with Local Foods
+37,66,188,Meghalaya,Gain Weight,General Balanced Diet with Local Foods
+32,81,187,Bihar,Lose Weight,General Balanced Diet with Local Foods
+21,80,162,Mizoram,Gain Weight,General Balanced Diet with Local Foods
+21,61,154,Odisha,Lose Weight,General Balanced Diet with Local Foods
+48,72,175,Rajasthan,Stay Healthy,General Balanced Diet with Local Foods
+51,50,181,Maharashtra,Lose Weight,"Opt for Jowar Bhakri, Poha, Sprouts Salad, and Lemon Water"
+19,78,183,Madhya Pradesh,Stay Healthy,General Balanced Diet with Local Foods
+32,73,176,Uttarakhand,Stay Healthy,General Balanced Diet with Local Foods
+53,80,192,Nagaland,Lose Weight,General Balanced Diet with Local Foods
+54,59,157,Jharkhand,Gain Weight,General Balanced Diet with Local Foods
+25,87,192,Assam,Gain Weight,General Balanced Diet with Local Foods
+54,59,173,Arunachal Pradesh,Stay Healthy,General Balanced Diet with Local Foods
+46,52,171,Telangana,Gain Weight,General Balanced Diet with Local Foods
+39,73,192,Uttar Pradesh,Stay Healthy,General Balanced Diet with Local Foods
+31,50,155,Nagaland,Stay Healthy,General Balanced Diet with Local Foods
+22,69,150,Rajasthan,Lose Weight,General Balanced Diet with Local Foods
+53,67,166,Tripura,Lose Weight,General Balanced Diet with Local Foods
+46,92,183,Punjab,Stay Healthy,"Consume Wheat Roti, Dal Makhani (Light), and Lassi"
+54,54,162,Telangana,Lose Weight,General Balanced Diet with Local Foods
+19,56,194,Maharashtra,Stay Healthy,"Have Dal Khichdi, Mixed Vegetable Curry, and Buttermilk"
+55,52,177,Goa,Stay Healthy,General Balanced Diet with Local Foods
+31,59,180,Arunachal Pradesh,Stay Healthy,General Balanced Diet with Local Foods
+26,54,158,Maharashtra,Lose Weight,"Opt for Jowar Bhakri, Poha, Sprouts Salad, and Lemon Water"
+51,81,191,Punjab,Lose Weight,"Eat Missi Roti, Dal Tadka, Cucumber Raita, and Lemon Water"
+51,71,193,Uttarakhand,Stay Healthy,General Balanced Diet with Local Foods
+30,74,165,Arunachal Pradesh,Gain Weight,General Balanced Diet with Local Foods
+36,71,163,Chhattisgarh,Gain Weight,General Balanced Diet with Local Foods
+31,50,181,Meghalaya,Lose Weight,General Balanced Diet with Local Foods
+50,62,172,Haryana,Lose Weight,General Balanced Diet with Local Foods
+57,99,185,Madhya Pradesh,Stay Healthy,General Balanced Diet with Local Foods
+47,82,187,Rajasthan,Lose Weight,General Balanced Diet with Local Foods
+31,100,180,Maharashtra,Lose Weight,"Opt for Jowar Bhakri, Poha, Sprouts Salad, and Lemon Water"
+58,68,173,Bihar,Stay Healthy,General Balanced Diet with Local Foods
+47,83,161,Arunachal Pradesh,Gain Weight,General Balanced Diet with Local Foods
+35,51,153,Andhra Pradesh,Gain Weight,General Balanced Diet with Local Foods
+24,92,176,Madhya Pradesh,Lose Weight,General Balanced Diet with Local Foods
+27,56,179,West Bengal,Gain Weight,"Consume Rice, Macher Jhol, Sweets like Rosogolla, and Milk"
+50,63,174,Himachal Pradesh,Stay Healthy,General Balanced Diet with Local Foods
+56,98,191,Goa,Lose Weight,General Balanced Diet with Local Foods
+43,88,154,Assam,Stay Healthy,General Balanced Diet with Local Foods
+38,70,188,Haryana,Gain Weight,General Balanced Diet with Local Foods
+43,71,173,Andhra Pradesh,Gain Weight,General Balanced Diet with Local Foods
+57,94,162,West Bengal,Gain Weight,"Consume Rice, Macher Jhol, Sweets like Rosogolla, and Milk"
+51,53,165,Chhattisgarh,Lose Weight,General Balanced Diet with Local Foods
+43,64,183,Karnataka,Stay Healthy,"Consume Idli, Sambar, Fresh Fruits, and Curd"
+36,86,168,Chhattisgarh,Stay Healthy,General Balanced Diet with Local Foods
+46,59,160,Himachal Pradesh,Gain Weight,General Balanced Diet with Local Foods
+42,100,186,Odisha,Gain Weight,General Balanced Diet with Local Foods
+41,81,156,Tamil Nadu,Gain Weight,"Include Pongal, Dosa with Butter, Filter Coffee, and Curd Rice"
+29,70,167,Uttarakhand,Stay Healthy,General Balanced Diet with Local Foods
+47,59,155,Himachal Pradesh,Stay Healthy,General Balanced Diet with Local Foods
+33,85,185,Sikkim,Stay Healthy,General Balanced Diet with Local Foods
+46,94,176,Chhattisgarh,Lose Weight,General Balanced Diet with Local Foods
+56,84,153,Tripura,Gain Weight,General Balanced Diet with Local Foods
+47,75,178,Maharashtra,Stay Healthy,"Have Dal Khichdi, Mixed Vegetable Curry, and Buttermilk"
+44,63,194,Mizoram,Gain Weight,General Balanced Diet with Local Foods
+45,86,186,Kerala,Gain Weight,"Have Puttu with Coconut Milk, Banana Fry, and Fish Curry"
+51,80,178,Gujarat,Stay Healthy,General Balanced Diet with Local Foods
+19,55,153,Tripura,Stay Healthy,General Balanced Diet with Local Foods
+42,73,178,Mizoram,Stay Healthy,General Balanced Diet with Local Foods
+58,58,165,Himachal Pradesh,Lose Weight,General Balanced Diet with Local Foods
+34,85,192,Maharashtra,Lose Weight,"Opt for Jowar Bhakri, Poha, Sprouts Salad, and Lemon Water"
+41,90,160,Gujarat,Gain Weight,General Balanced Diet with Local Foods
+39,78,170,Arunachal Pradesh,Gain Weight,General Balanced Diet with Local Foods
+35,69,192,Gujarat,Gain Weight,General Balanced Diet with Local Foods
+19,80,181,Maharashtra,Stay Healthy,"Have Dal Khichdi, Mixed Vegetable Curry, and Buttermilk"
+32,50,170,Goa,Stay Healthy,General Balanced Diet with Local Foods
+21,64,195,Tamil Nadu,Gain Weight,"Include Pongal, Dosa with Butter, Filter Coffee, and Curd Rice"
+47,65,168,Andhra Pradesh,Gain Weight,General Balanced Diet with Local Foods
+60,52,158,Punjab,Stay Healthy,"Consume Wheat Roti, Dal Makhani (Light), and Lassi"
+53,61,162,Punjab,Gain Weight,"Eat Makki di Roti, Sarson da Saag, Paneer Tikka, and Lassi"
+28,70,187,West Bengal,Gain Weight,"Consume Rice, Macher Jhol, Sweets like Rosogolla, and Milk"
+36,68,166,Uttarakhand,Stay Healthy,General Balanced Diet with Local Foods
+50,55,189,Chhattisgarh,Lose Weight,General Balanced Diet with Local Foods
+55,66,152,Kerala,Stay Healthy,"Include Idiyappam, Vegetable Stew, and Fresh Coconut Water"
+31,55,152,Uttar Pradesh,Lose Weight,General Balanced Diet with Local Foods
+57,84,161,Chhattisgarh,Gain Weight,General Balanced Diet with Local Foods
+43,89,159,Kerala,Lose Weight,"Consume Brown Rice, Avial, Cucumber Salad, and Coconut Water"
+51,83,171,Manipur,Gain Weight,General Balanced Diet with Local Foods
+43,82,182,Tamil Nadu,Gain Weight,"Include Pongal, Dosa with Butter, Filter Coffee, and Curd Rice"
+23,81,191,Chhattisgarh,Lose Weight,General Balanced Diet with Local Foods
+29,85,157,Sikkim,Gain Weight,General Balanced Diet with Local Foods
+21,84,181,Mizoram,Stay Healthy,General Balanced Diet with Local Foods
+41,96,167,Meghalaya,Lose Weight,General Balanced Diet with Local Foods
+58,71,167,Kerala,Stay Healthy,"Include Idiyappam, Vegetable Stew, and Fresh Coconut Water"
+35,61,151,Karnataka,Stay Healthy,"Consume Idli, Sambar, Fresh Fruits, and Curd"
+50,51,168,Uttar Pradesh,Gain Weight,General Balanced Diet with Local Foods
+52,86,191,West Bengal,Stay Healthy,"Eat Fish Curry, Rice, Moong Dal, and Seasonal Fruits"
+44,54,160,Rajasthan,Gain Weight,General Balanced Diet with Local Foods
+25,80,190,Telangana,Lose Weight,General Balanced Diet with Local Foods
+45,95,159,Gujarat,Gain Weight,General Balanced Diet with Local Foods
+41,80,170,Mizoram,Lose Weight,General Balanced Diet with Local Foods
+21,65,182,Tripura,Lose Weight,General Balanced Diet with Local Foods
+18,67,184,Tripura,Lose Weight,General Balanced Diet with Local Foods
+20,92,177,Tamil Nadu,Lose Weight,"Include Millets Dosa, Sambhar, Coconut Chutney, and Fresh Fruits"
+25,87,164,Meghalaya,Gain Weight,General Balanced Diet with Local Foods
+42,53,155,Chhattisgarh,Gain Weight,General Balanced Diet with Local Foods
+34,59,184,Jharkhand,Gain Weight,General Balanced Diet with Local Foods
+22,54,158,Andhra Pradesh,Stay Healthy,General Balanced Diet with Local Foods
+59,97,174,Goa,Gain Weight,General Balanced Diet with Local Foods
+60,74,193,Gujarat,Lose Weight,General Balanced Diet with Local Foods
+37,54,157,Maharashtra,Stay Healthy,"Have Dal Khichdi, Mixed Vegetable Curry, and Buttermilk"
+26,52,192,Odisha,Gain Weight,General Balanced Diet with Local Foods
+43,100,180,Karnataka,Stay Healthy,"Consume Idli, Sambar, Fresh Fruits, and Curd"
+46,65,183,Arunachal Pradesh,Lose Weight,General Balanced Diet with Local Foods
+19,64,161,Madhya Pradesh,Gain Weight,General Balanced Diet with Local Foods
+45,95,188,Karnataka,Stay Healthy,"Consume Idli, Sambar, Fresh Fruits, and Curd"
+25,77,193,Jharkhand,Stay Healthy,General Balanced Diet with Local Foods
+60,58,177,Sikkim,Stay Healthy,General Balanced Diet with Local Foods
+33,65,155,Jharkhand,Gain Weight,General Balanced Diet with Local Foods
+25,81,170,Rajasthan,Stay Healthy,General Balanced Diet with Local Foods
+38,56,177,West Bengal,Gain Weight,"Consume Rice, Macher Jhol, Sweets like Rosogolla, and Milk"
+51,51,171,Bihar,Gain Weight,General Balanced Diet with Local Foods
+25,77,162,Tamil Nadu,Lose Weight,"Include Millets Dosa, Sambhar, Coconut Chutney, and Fresh Fruits"
+60,82,167,Himachal Pradesh,Lose Weight,General Balanced Diet with Local Foods
+51,84,190,Uttarakhand,Stay Healthy,General Balanced Diet with Local Foods
+38,62,179,Tripura,Gain Weight,General Balanced Diet with Local Foods
+35,70,160,Maharashtra,Gain Weight,"Opt for Puran Poli, Basundi, Misal Pav, and Dry Fruits"
+27,52,155,Meghalaya,Stay Healthy,General Balanced Diet with Local Foods
+41,93,189,Bihar,Gain Weight,General Balanced Diet with Local Foods
+60,94,184,Uttarakhand,Lose Weight,General Balanced Diet with Local Foods
+20,71,151,Uttarakhand,Gain Weight,General Balanced Diet with Local Foods
+38,51,186,Haryana,Gain Weight,General Balanced Diet with Local Foods
+45,59,187,Chhattisgarh,Lose Weight,General Balanced Diet with Local Foods
+26,66,191,Telangana,Gain Weight,General Balanced Diet with Local Foods
+33,51,159,Gujarat,Gain Weight,General Balanced Diet with Local Foods
+48,55,158,Jharkhand,Lose Weight,General Balanced Diet with Local Foods
+33,98,162,Mizoram,Gain Weight,General Balanced Diet with Local Foods
+50,95,174,Nagaland,Stay Healthy,General Balanced Diet with Local Foods
+23,72,173,Punjab,Lose Weight,"Eat Missi Roti, Dal Tadka, Cucumber Raita, and Lemon Water"
+26,76,183,Andhra Pradesh,Stay Healthy,General Balanced Diet with Local Foods
+59,76,157,Himachal Pradesh,Gain Weight,General Balanced Diet with Local Foods
+28,91,185,Sikkim,Lose Weight,General Balanced Diet with Local Foods
+31,63,178,Assam,Stay Healthy,General Balanced Diet with Local Foods
+40,75,158,Sikkim,Gain Weight,General Balanced Diet with Local Foods
+46,88,171,Maharashtra,Stay Healthy,"Have Dal Khichdi, Mixed Vegetable Curry, and Buttermilk"
+52,50,171,Uttarakhand,Gain Weight,General Balanced Diet with Local Foods
+34,91,194,Jharkhand,Gain Weight,General Balanced Diet with Local Foods
+31,82,167,Jharkhand,Stay Healthy,General Balanced Diet with Local Foods
+31,98,157,Assam,Stay Healthy,General Balanced Diet with Local Foods
+44,60,188,Madhya Pradesh,Gain Weight,General Balanced Diet with Local Foods
+38,95,153,Chhattisgarh,Lose Weight,General Balanced Diet with Local Foods
+43,64,163,Jharkhand,Stay Healthy,General Balanced Diet with Local Foods
+43,66,184,Karnataka,Lose Weight,"Eat Ragi Roti, Vegetable Sambar, Sprouts, and Buttermilk"
+42,78,192,Punjab,Lose Weight,"Eat Missi Roti, Dal Tadka, Cucumber Raita, and Lemon Water"
+18,55,164,Telangana,Lose Weight,General Balanced Diet with Local Foods
+41,75,161,West Bengal,Lose Weight,"Have Moong Dal Khichdi, Grilled Fish, and Seasonal Fruits"
+23,78,163,Madhya Pradesh,Gain Weight,General Balanced Diet with Local Foods
+35,84,170,West Bengal,Gain Weight,"Consume Rice, Macher Jhol, Sweets like Rosogolla, and Milk"
+58,53,168,Odisha,Gain Weight,General Balanced Diet with Local Foods
+29,52,195,Madhya Pradesh,Stay Healthy,General Balanced Diet with Local Foods
+20,77,177,Meghalaya,Stay Healthy,General Balanced Diet with Local Foods
+39,62,177,West Bengal,Gain Weight,"Consume Rice, Macher Jhol, Sweets like Rosogolla, and Milk"
+20,76,164,Himachal Pradesh,Stay Healthy,General Balanced Diet with Local Foods
+27,56,150,Nagaland,Stay Healthy,General Balanced Diet with Local Foods
+54,58,190,Madhya Pradesh,Stay Healthy,General Balanced Diet with Local Foods
+18,53,173,Mizoram,Lose Weight,General Balanced Diet with Local Foods
+30,79,166,Meghalaya,Gain Weight,General Balanced Diet with Local Foods
+21,97,167,Assam,Gain Weight,General Balanced Diet with Local Foods
+54,86,186,Karnataka,Stay Healthy,"Consume Idli, Sambar, Fresh Fruits, and Curd"
+36,97,152,Sikkim,Gain Weight,General Balanced Diet with Local Foods
+46,92,172,Assam,Stay Healthy,General Balanced Diet with Local Foods
+33,61,183,Jharkhand,Stay Healthy,General Balanced Diet with Local Foods
+60,52,186,Uttarakhand,Gain Weight,General Balanced Diet with Local Foods
+45,50,184,Uttarakhand,Gain Weight,General Balanced Diet with Local Foods
+56,69,182,Uttar Pradesh,Stay Healthy,General Balanced Diet with Local Foods
+58,80,165,Haryana,Stay Healthy,General Balanced Diet with Local Foods
+57,65,179,Uttarakhand,Lose Weight,General Balanced Diet with Local Foods
+43,91,164,Maharashtra,Lose Weight,"Opt for Jowar Bhakri, Poha, Sprouts Salad, and Lemon Water"
+22,56,150,Nagaland,Stay Healthy,General Balanced Diet with Local Foods
+22,66,173,Sikkim,Gain Weight,General Balanced Diet with Local Foods
+46,56,157,Manipur,Gain Weight,General Balanced Diet with Local Foods
+60,63,150,Nagaland,Lose Weight,General Balanced Diet with Local Foods
+40,55,170,Uttar Pradesh,Gain Weight,General Balanced Diet with Local Foods
+32,69,174,Nagaland,Stay Healthy,General Balanced Diet with Local Foods
+42,97,158,Telangana,Lose Weight,General Balanced Diet with Local Foods
+56,60,170,Rajasthan,Stay Healthy,General Balanced Diet with Local Foods
+51,90,180,Arunachal Pradesh,Lose Weight,General Balanced Diet with Local Foods
+46,55,178,Haryana,Gain Weight,General Balanced Diet with Local Foods
+34,90,151,Arunachal Pradesh,Stay Healthy,General Balanced Diet with Local Foods
+32,86,181,Telangana,Stay Healthy,General Balanced Diet with Local Foods
+49,84,187,Gujarat,Lose Weight,General Balanced Diet with Local Foods
+37,91,160,Sikkim,Lose Weight,General Balanced Diet with Local Foods
+59,86,189,Kerala,Gain Weight,"Have Puttu with Coconut Milk, Banana Fry, and Fish Curry"
+32,79,151,Haryana,Lose Weight,General Balanced Diet with Local Foods
+20,53,175,Madhya Pradesh,Gain Weight,General Balanced Diet with Local Foods
+59,82,176,Maharashtra,Stay Healthy,"Have Dal Khichdi, Mixed Vegetable Curry, and Buttermilk"
+57,54,158,Mizoram,Gain Weight,General Balanced Diet with Local Foods
+18,98,170,Andhra Pradesh,Gain Weight,General Balanced Diet with Local Foods
+43,99,180,Nagaland,Stay Healthy,General Balanced Diet with Local Foods
+21,69,183,Tamil Nadu,Stay Healthy,"Eat Idli, Sambar, Coconut Chutney, and Fresh Fruits"
+32,70,176,Manipur,Lose Weight,General Balanced Diet with Local Foods
+49,74,188,Himachal Pradesh,Gain Weight,General Balanced Diet with Local Foods
+38,56,153,Meghalaya,Stay Healthy,General Balanced Diet with Local Foods
+58,50,178,Tamil Nadu,Stay Healthy,"Eat Idli, Sambar, Coconut Chutney, and Fresh Fruits"
+55,99,191,Uttarakhand,Gain Weight,General Balanced Diet with Local Foods
+42,62,189,Gujarat,Lose Weight,General Balanced Diet with Local Foods
+40,68,171,Meghalaya,Stay Healthy,General Balanced Diet with Local Foods
+45,61,170,Tripura,Lose Weight,General Balanced Diet with Local Foods
+26,97,179,Andhra Pradesh,Lose Weight,General Balanced Diet with Local Foods
+58,60,194,Madhya Pradesh,Gain Weight,General Balanced Diet with Local Foods
+45,95,180,Chhattisgarh,Lose Weight,General Balanced Diet with Local Foods
+18,72,158,Maharashtra,Gain Weight,"Opt for Puran Poli, Basundi, Misal Pav, and Dry Fruits"
+34,91,179,Telangana,Gain Weight,General Balanced Diet with Local Foods
+43,69,190,Goa,Gain Weight,General Balanced Diet with Local Foods
+45,92,184,Jharkhand,Stay Healthy,General Balanced Diet with Local Foods
+49,58,167,Maharashtra,Gain Weight,"Opt for Puran Poli, Basundi, Misal Pav, and Dry Fruits"
+58,95,162,Karnataka,Lose Weight,"Eat Ragi Roti, Vegetable Sambar, Sprouts, and Buttermilk"
+49,59,176,Sikkim,Lose Weight,General Balanced Diet with Local Foods
+24,57,190,Tripura,Stay Healthy,General Balanced Diet with Local Foods
+28,82,166,Uttar Pradesh,Stay Healthy,General Balanced Diet with Local Foods
+51,79,160,Mizoram,Lose Weight,General Balanced Diet with Local Foods
+53,87,161,Mizoram,Stay Healthy,General Balanced Diet with Local Foods
+47,88,190,Punjab,Gain Weight,"Eat Makki di Roti, Sarson da Saag, Paneer Tikka, and Lassi"
+57,59,190,Telangana,Gain Weight,General Balanced Diet with Local Foods
+58,77,177,West Bengal,Gain Weight,"Consume Rice, Macher Jhol, Sweets like Rosogolla, and Milk"
+39,54,179,Punjab,Lose Weight,"Eat Missi Roti, Dal Tadka, Cucumber Raita, and Lemon Water"
+49,87,167,Jharkhand,Stay Healthy,General Balanced Diet with Local Foods
+60,60,168,Rajasthan,Stay Healthy,General Balanced Diet with Local Foods
+39,73,168,Uttar Pradesh,Gain Weight,General Balanced Diet with Local Foods
+40,54,164,Rajasthan,Gain Weight,General Balanced Diet with Local Foods
+50,92,195,Sikkim,Lose Weight,General Balanced Diet with Local Foods
+41,99,174,Haryana,Gain Weight,General Balanced Diet with Local Foods
+51,60,159,Andhra Pradesh,Lose Weight,General Balanced Diet with Local Foods
+32,74,187,Rajasthan,Gain Weight,General Balanced Diet with Local Foods
+25,56,195,Meghalaya,Gain Weight,General Balanced Diet with Local Foods
+22,55,153,Madhya Pradesh,Stay Healthy,General Balanced Diet with Local Foods
+30,68,192,Madhya Pradesh,Stay Healthy,General Balanced Diet with Local Foods
+54,100,183,Jharkhand,Stay Healthy,General Balanced Diet with Local Foods
+58,57,185,Sikkim,Stay Healthy,General Balanced Diet with Local Foods
+25,68,153,Gujarat,Lose Weight,General Balanced Diet with Local Foods
+56,57,156,Haryana,Stay Healthy,General Balanced Diet with Local Foods
+35,77,175,Mizoram,Lose Weight,General Balanced Diet with Local Foods
+42,64,168,Tripura,Lose Weight,General Balanced Diet with Local Foods
+40,66,195,Mizoram,Stay Healthy,General Balanced Diet with Local Foods
+39,76,151,Rajasthan,Gain Weight,General Balanced Diet with Local Foods
+42,100,158,Goa,Gain Weight,General Balanced Diet with Local Foods
+19,84,162,Himachal Pradesh,Stay Healthy,General Balanced Diet with Local Foods
+39,93,185,Manipur,Lose Weight,General Balanced Diet with Local Foods
+48,57,156,Kerala,Lose Weight,"Consume Brown Rice, Avial, Cucumber Salad, and Coconut Water"
+24,68,188,Chhattisgarh,Lose Weight,General Balanced Diet with Local Foods
+46,93,161,Haryana,Stay Healthy,General Balanced Diet with Local Foods
+23,92,166,Karnataka,Lose Weight,"Eat Ragi Roti, Vegetable Sambar, Sprouts, and Buttermilk"
+43,82,180,Arunachal Pradesh,Lose Weight,General Balanced Diet with Local Foods
+52,57,189,Rajasthan,Lose Weight,General Balanced Diet with Local Foods
+20,93,157,Arunachal Pradesh,Stay Healthy,General Balanced Diet with Local Foods
+39,52,180,Uttarakhand,Lose Weight,General Balanced Diet with Local Foods
+49,84,161,Himachal Pradesh,Lose Weight,General Balanced Diet with Local Foods
+44,100,168,Andhra Pradesh,Lose Weight,General Balanced Diet with Local Foods
+23,76,153,Madhya Pradesh,Stay Healthy,General Balanced Diet with Local Foods
+27,90,163,Mizoram,Stay Healthy,General Balanced Diet with Local Foods
+57,94,186,Nagaland,Stay Healthy,General Balanced Diet with Local Foods
+58,92,152,Bihar,Stay Healthy,General Balanced Diet with Local Foods
+48,53,188,Uttar Pradesh,Stay Healthy,General Balanced Diet with Local Foods
+46,52,187,Manipur,Lose Weight,General Balanced Diet with Local Foods
+29,82,194,Nagaland,Gain Weight,General Balanced Diet with Local Foods
+57,72,166,Jharkhand,Lose Weight,General Balanced Diet with Local Foods
+54,52,170,Uttarakhand,Stay Healthy,General Balanced Diet with Local Foods
+57,60,160,Meghalaya,Lose Weight,General Balanced Diet with Local Foods
+24,97,180,Manipur,Lose Weight,General Balanced Diet with Local Foods
+47,83,164,Punjab,Lose Weight,"Eat Missi Roti, Dal Tadka, Cucumber Raita, and Lemon Water"
+42,90,184,Uttarakhand,Lose Weight,General Balanced Diet with Local Foods
+36,83,189,Goa,Gain Weight,General Balanced Diet with Local Foods
+48,74,193,West Bengal,Gain Weight,"Consume Rice, Macher Jhol, Sweets like Rosogolla, and Milk"
+19,65,164,Gujarat,Stay Healthy,General Balanced Diet with Local Foods
+29,86,152,Uttar Pradesh,Stay Healthy,General Balanced Diet with Local Foods
+49,66,187,Meghalaya,Stay Healthy,General Balanced Diet with Local Foods
+36,71,176,Manipur,Stay Healthy,General Balanced Diet with Local Foods
+52,100,181,Jharkhand,Stay Healthy,General Balanced Diet with Local Foods
+51,65,161,Andhra Pradesh,Stay Healthy,General Balanced Diet with Local Foods
+19,67,163,Uttarakhand,Gain Weight,General Balanced Diet with Local Foods
+44,58,152,Karnataka,Stay Healthy,"Consume Idli, Sambar, Fresh Fruits, and Curd"
+18,91,187,Meghalaya,Gain Weight,General Balanced Diet with Local Foods
+60,55,171,Chhattisgarh,Stay Healthy,General Balanced Diet with Local Foods
+29,87,171,Mizoram,Gain Weight,General Balanced Diet with Local Foods
+33,97,156,Madhya Pradesh,Lose Weight,General Balanced Diet with Local Foods
+36,97,179,Tripura,Gain Weight,General Balanced Diet with Local Foods
+24,91,177,Jharkhand,Gain Weight,General Balanced Diet with Local Foods
+49,52,173,Assam,Lose Weight,General Balanced Diet with Local Foods
+42,79,174,Madhya Pradesh,Stay Healthy,General Balanced Diet with Local Foods
+33,96,163,Gujarat,Stay Healthy,General Balanced Diet with Local Foods
+42,72,150,Sikkim,Lose Weight,General Balanced Diet with Local Foods
+45,77,157,Goa,Lose Weight,General Balanced Diet with Local Foods
+37,80,168,West Bengal,Gain Weight,"Consume Rice, Macher Jhol, Sweets like Rosogolla, and Milk"
+60,85,159,Haryana,Stay Healthy,General Balanced Diet with Local Foods
+60,73,160,West Bengal,Gain Weight,"Consume Rice, Macher Jhol, Sweets like Rosogolla, and Milk"
+59,68,174,Tamil Nadu,Gain Weight,"Include Pongal, Dosa with Butter, Filter Coffee, and Curd Rice"
+39,66,158,Tamil Nadu,Gain Weight,"Include Pongal, Dosa with Butter, Filter Coffee, and Curd Rice"
+52,88,177,Kerala,Lose Weight,"Consume Brown Rice, Avial, Cucumber Salad, and Coconut Water"
+45,79,157,Bihar,Lose Weight,General Balanced Diet with Local Foods
+47,95,168,Mizoram,Stay Healthy,General Balanced Diet with Local Foods
+41,54,187,Chhattisgarh,Stay Healthy,General Balanced Diet with Local Foods
+43,99,183,Jharkhand,Stay Healthy,General Balanced Diet with Local Foods
+58,66,179,Haryana,Gain Weight,General Balanced Diet with Local Foods
+30,88,173,Kerala,Lose Weight,"Consume Brown Rice, Avial, Cucumber Salad, and Coconut Water"
+38,82,174,Gujarat,Stay Healthy,General Balanced Diet with Local Foods
+19,52,157,Punjab,Stay Healthy,"Consume Wheat Roti, Dal Makhani (Light), and Lassi"
+27,65,155,Jharkhand,Lose Weight,General Balanced Diet with Local Foods
+52,86,181,Himachal Pradesh,Lose Weight,General Balanced Diet with Local Foods
+28,69,182,Sikkim,Lose Weight,General Balanced Diet with Local Foods
+27,97,176,Bihar,Stay Healthy,General Balanced Diet with Local Foods
+48,69,171,Maharashtra,Stay Healthy,"Have Dal Khichdi, Mixed Vegetable Curry, and Buttermilk"
+29,74,194,Tamil Nadu,Gain Weight,"Include Pongal, Dosa with Butter, Filter Coffee, and Curd Rice"
+28,74,171,Uttar Pradesh,Stay Healthy,General Balanced Diet with Local Foods
+51,95,167,Madhya Pradesh,Stay Healthy,General Balanced Diet with Local Foods
+55,61,188,West Bengal,Lose Weight,"Have Moong Dal Khichdi, Grilled Fish, and Seasonal Fruits"
+46,67,166,Arunachal Pradesh,Lose Weight,General Balanced Diet with Local Foods
+39,100,159,Meghalaya,Lose Weight,General Balanced Diet with Local Foods
+38,92,169,Mizoram,Stay Healthy,General Balanced Diet with Local Foods
+54,81,156,Punjab,Lose Weight,"Eat Missi Roti, Dal Tadka, Cucumber Raita, and Lemon Water"
+19,87,184,Andhra Pradesh,Gain Weight,General Balanced Diet with Local Foods
+50,63,152,Gujarat,Lose Weight,General Balanced Diet with Local Foods
+57,69,184,Jharkhand,Stay Healthy,General Balanced Diet with Local Foods
+59,93,194,Jharkhand,Lose Weight,General Balanced Diet with Local Foods
+22,87,187,Punjab,Stay Healthy,"Consume Wheat Roti, Dal Makhani (Light), and Lassi"
+20,93,160,Nagaland,Stay Healthy,General Balanced Diet with Local Foods
+33,90,188,Andhra Pradesh,Stay Healthy,General Balanced Diet with Local Foods
+32,55,190,Telangana,Lose Weight,General Balanced Diet with Local Foods
+47,66,175,Uttarakhand,Stay Healthy,General Balanced Diet with Local Foods
+38,62,194,Tamil Nadu,Gain Weight,"Include Pongal, Dosa with Butter, Filter Coffee, and Curd Rice"
+58,68,179,Punjab,Gain Weight,"Eat Makki di Roti, Sarson da Saag, Paneer Tikka, and Lassi"
+37,62,186,Karnataka,Lose Weight,"Eat Ragi Roti, Vegetable Sambar, Sprouts, and Buttermilk"
+24,74,191,Manipur,Stay Healthy,General Balanced Diet with Local Foods
+32,83,162,Goa,Gain Weight,General Balanced Diet with Local Foods
+55,69,177,Tripura,Stay Healthy,General Balanced Diet with Local Foods
+43,59,174,Karnataka,Lose Weight,"Eat Ragi Roti, Vegetable Sambar, Sprouts, and Buttermilk"
+32,76,156,Odisha,Gain Weight,General Balanced Diet with Local Foods
+39,77,170,Sikkim,Lose Weight,General Balanced Diet with Local Foods
+41,70,155,Chhattisgarh,Stay Healthy,General Balanced Diet with Local Foods
+58,67,169,Maharashtra,Lose Weight,"Opt for Jowar Bhakri, Poha, Sprouts Salad, and Lemon Water"
+20,65,174,Goa,Gain Weight,General Balanced Diet with Local Foods
+35,79,161,Bihar,Lose Weight,General Balanced Diet with Local Foods
+21,75,151,Andhra Pradesh,Stay Healthy,General Balanced Diet with Local Foods
+19,93,164,Punjab,Gain Weight,"Eat Makki di Roti, Sarson da Saag, Paneer Tikka, and Lassi"
+49,83,183,Rajasthan,Gain Weight,General Balanced Diet with Local Foods
+36,82,186,Goa,Lose Weight,General Balanced Diet with Local Foods
+33,72,195,Andhra Pradesh,Lose Weight,General Balanced Diet with Local Foods
+57,61,152,Himachal Pradesh,Gain Weight,General Balanced Diet with Local Foods
+27,88,155,Rajasthan,Lose Weight,General Balanced Diet with Local Foods
+31,50,176,Andhra Pradesh,Lose Weight,General Balanced Diet with Local Foods
+53,98,168,West Bengal,Lose Weight,"Have Moong Dal Khichdi, Grilled Fish, and Seasonal Fruits"
