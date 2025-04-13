@@ -1,0 +1,26 @@
+spring:
+  data:
+      mongodb:
+        host: localhost
+        port: 27017
+        database: NutriAi
+        auto-index-creation: true
+  security:
+    oauth2:
+      client:
+        registration:
+          google:
+            client-id: YOUR_GOOGLE_CLIENT_ID
+            client-secret: YOUR_GOOGLE_CLIENT_SECRET
+            scope:
+              - email
+              - profile
+
+
+
+
+python:
+  ai:
+    url: http://127.0.0.1:5000/predict
+
+
